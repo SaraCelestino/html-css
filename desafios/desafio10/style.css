@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+div#cabeçalho {
+    background-image: linear-gradient(to top, rgb(26, 87, 36), rgb(37, 202, 51));
+    font-family: Bebas Neue Bold;
+    color: rgb(214, 211, 211);
+    padding: 10px 10px 5px 5px;
+}
+
+body {
+    background-color: bisque;
+
+}
+
+img {
+    border-radius: 20px;
+
+}
+
+
+
